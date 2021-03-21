@@ -1,4 +1,4 @@
-# Getting Started with Radio App
+# Getting Started with Radio Player App
 
 created by [https://tobitmisoi.com]
 
