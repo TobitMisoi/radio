@@ -46,7 +46,6 @@ function Radio() {
         setupApi(stationFilter)
             .then(data => {
                 setStations(data)
-                console.log(data)
             })
 
     }, [stationFilter])
